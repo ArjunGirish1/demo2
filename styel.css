@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Hero Section */
+.hero {
+    background-image: url('https://athena.ied.eu/pluginfile.php/1/theme_alpha/block3img/1721133807/header-image.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #343a40;
+  }
+  
+  /* Card Image */
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .carousel-inner{
+    height: 650px;
+  }
+  
